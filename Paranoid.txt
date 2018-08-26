@@ -39,8 +39,8 @@ receive-lp1.dg.srv.nintendo.net
 receive-lp1.er.srv.nintendo.net
 
 # Game updates server
-superfly.hac.lp1.d4c.nintendo.net
-tagaya.hac.lp1.eshop.nintendo.net
+#superfly.hac.lp1.d4c.nintendo.net
+#tagaya.hac.lp1.eshop.nintendo.net
 
 # Facebook Image Posting
 web-lp1.share.srv.nintendo.net
